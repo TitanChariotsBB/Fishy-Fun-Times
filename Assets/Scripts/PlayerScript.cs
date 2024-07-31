@@ -14,7 +14,7 @@ public class PlayerScript : MonoBehaviour
     public AudioSource _audioSource;
     public AudioClip _nom;
     public AudioClip _bubble;
-    // Start is called before the first frame update
+
     void Start()
     {
         _rbody = GetComponent<Rigidbody2D>();
