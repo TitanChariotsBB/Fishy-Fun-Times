@@ -4,4 +4,4 @@ Fishy Fun Times was a game created for my first project in COMP 441 (2D Game Des
 
 ### Screenshot
 
-[Gameplay screenshot](FishyFunTimesScreenshot.png)
+![Gameplay screenshot](FishyFunTimesScreenshot.png)
